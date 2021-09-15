@@ -3,7 +3,7 @@ use util::*;
 
 use rand::random;
 
-const ITERATIONS: usize = 500;
+const ITERATIONS: usize = 10;
 
 const DATA_SIZE: usize = 20;
 
