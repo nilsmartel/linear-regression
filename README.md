@@ -20,4 +20,4 @@ Example output:
 
 
 here we can see, that the loss of the linear regressor (actually, what _is_ the proper term for this?) dramatically decreases.
-The `loss` here is a measure of how `badly` the linear parameters are able to help predict the actually data points given as input.
+The `loss` here is a measure of how _"badly"_ the linear parameters are able to help predict the actually data points given as input.
