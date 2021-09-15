@@ -46,10 +46,7 @@ fn main() {
         // decrease factor, if the loss goes up
         if prev_loss < loss {
             factor *= 0.9;
-        } else {
-            factor *= 1.05;
         }
-
         prev_loss = loss;
 
         println!("average loss: {}", loss);
